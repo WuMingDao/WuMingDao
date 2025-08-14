@@ -41,6 +41,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ## 📈 My GitHub Contributions:
+## 📈 My GitHub Contributions:
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=WuMingDao) -->
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=WuMingDao)
