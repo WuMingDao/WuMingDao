@@ -35,6 +35,10 @@
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
+### Other
+
+[![wakatime](https://wakatime.com/badge/user/018b9516-3463-4ece-a409-03c3187a355d.svg)](https://wakatime.com/@018b9516-3463-4ece-a409-03c3187a355d)
+
 <hr />
 
 ## 📝 My Make tools
