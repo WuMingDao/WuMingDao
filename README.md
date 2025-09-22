@@ -49,11 +49,9 @@
 
 ## GitHub stats:
 
-<<<<<<< HEAD
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=transparent)](https://github.com/WuMingDao/github-readme-stats)
-=======
+# [![WuMingDao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=transparent)](https://github.com/WuMingDao/github-readme-stats)
+
 [![WuMingDao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao)](https://github.com/anuraghazra/github-readme-stats)
->>>>>>> d55a794 (update: working project)
 
 ## 📈 My GitHub Contributions:
 
