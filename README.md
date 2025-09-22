@@ -53,6 +53,4 @@
 
 ## 📈 My GitHub Contributions:
 
-![WuMingDao's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=WuMingDao)
-
----
+![WuMingDao's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=WuMingDao&limit=5&theme=dark&combine_all_yearly_contributions=true)
