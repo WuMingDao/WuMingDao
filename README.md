@@ -49,10 +49,10 @@
 
 ## GitHub stats:
 
-# [![WuMingDao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=transparent)](https://github.com/WuMingDao/github-readme-stats)
-
-[![WuMingDao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao)](https://github.com/anuraghazra/github-readme-stats)
+[![WuMingDao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=transparent)](https://github.com/WuMingDao/github-readme-stats)
 
 ## 📈 My GitHub Contributions:
 
 ![WuMingDao's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=WuMingDao)
+
+---
