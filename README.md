@@ -1,4 +1,11 @@
-# <div align="center">![Welcome](image/Welcome.gif)</div>
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20WuMingDao!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Kalam&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+WuMingDao+GitHub+profile+page!;I+am+common+software+engineer.;I+like+eat,+sleep+and+play!" />
+</p>
 
 ## 👋 About Me
 
@@ -36,6 +43,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ### Other
+
 
 [![wakatime](https://wakatime.com/badge/user/018b9516-3463-4ece-a409-03c3187a355d.svg)](https://wakatime.com/@018b9516-3463-4ece-a409-03c3187a355d)
 
