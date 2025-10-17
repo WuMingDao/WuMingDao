@@ -51,14 +51,27 @@
 
 ## 📝 My Working Projects:
 
-[![student management](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=student-management)](https://github.com/WuMingDao/student-management)
+[![student management](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=student-management&&theme=tokyonight)](https://github.com/WuMingDao/student-management)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=create-nodejs-react-startup&theme=tokyonight)](https://github.com/WuMingDao/create-nodejs-react-startup)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=create-nodejs-react-startup)](https://github.com/WuMingDao/create-nodejs-react-startup)
+<h2 align="center">My GitHub Stats & Contributions</h2>
 
-## GitHub stats:
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- GitHub Stats Card -->
+        <a href="https://github.com/WuMingDao/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=tokyonight" alt="WuMingDao's GitHub stats" />
+        </a>
+      </td>
+      <td>
+        <!-- GitHub Contributions Card -->
+        <img src="https://github-contributor-stats.vercel.app/api?username=WuMingDao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="WuMingDao's GitHub Contributions" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-[![WuMingDao's GitHub stats](https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=transparent)](https://github.com/WuMingDao/github-readme-stats)
-
-## 📈 My GitHub Contributions:
-
-![WuMingDao's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=WuMingDao&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+</p>
