@@ -9,9 +9,9 @@
 
 ## 👋 About Me
 
-- 🔭 I’m current student
-- 🌱 I’m currently learning React and Node.js of full stack development
-- 📫 How to reach me: wumingdao@gmail.com
+- 🔭 I’m a current student
+- 🌱 I’m currently learning React and Node.js for full-stack development
+- 📫 How to reach me: wumingdao070@gmail.com
 <hr />
 
 ## 🌐 Socials:
