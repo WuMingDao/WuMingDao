@@ -44,14 +44,21 @@
 
 ### Other
 
-
 [![wakatime](https://wakatime.com/badge/user/018b9516-3463-4ece-a409-03c3187a355d.svg)](https://wakatime.com/@018b9516-3463-4ece-a409-03c3187a355d)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WuMingDao&label=Profile%20views&color=0e75b6&style=flat" alt="WuMingDao"/> </p>
+
+<hr />
+
+## My Leetcode
+
+[![我的力扣统计](https://leetcard.jacoblin.cool/wumingdao?site=cn&ext=heatmap&theme=dark)](https://leetcode.cn/u/wumingdao)
 
 <hr />
 
 ## 📝 My Working Projects:
 
-[![student management](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=student-management&&theme=tokyonight)](https://github.com/WuMingDao/student-management)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=create-nodejs-react-startup&theme=tokyonight)](https://github.com/WuMingDao/create-nodejs-react-startup)
+[![student management](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=student-management&&theme=tokyonight)](https://github.com/WuMingDao/student-management) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=create-nodejs-react-startup&theme=tokyonight)](https://github.com/WuMingDao/create-nodejs-react-startup)
 
 <h2 align="center">My GitHub Stats & Contributions</h2>
 
