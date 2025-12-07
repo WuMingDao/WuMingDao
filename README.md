@@ -58,7 +58,8 @@
 
 ## 📝 My Working Projects:
 
-[![student management](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=student-management&&theme=tokyonight)](https://github.com/WuMingDao/student-management) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WuMingDao&repo=create-nodejs-react-startup&theme=tokyonight)](https://github.com/WuMingDao/create-nodejs-react-startup)
+[![zenith-image-generator](https://github-readme-stats-mauve-seven-77.vercel.app/api/pin/?username=WuMingDao&repo=zenith-image-generator&&theme=tokyonight)](https://github.com/WuMingDao/zenith-image-generator) [![big-banana-emoji-maker](https://github-readme-stats-mauve-seven-77.vercel.app/api/pin/?username=WuMingDao&repo=big-banana-emoji-maker&&theme=tokyonight)](https://github.com/WuMingDao/big-banana-emoji-maker)
+
 
 <h2 align="center">My GitHub Stats & Contributions</h2>
 
@@ -68,7 +69,7 @@
       <td>
         <!-- GitHub Stats Card -->
         <a href="https://github.com/WuMingDao/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=WuMingDao&show_icons=true&theme=tokyonight" alt="WuMingDao's GitHub stats" />
+          <img src="https://github-readme-stats-mauve-seven-77.vercel.app/api?username=WuMingDao&show_icons=true&theme=tokyonight" alt="WuMingDao's GitHub stats" />
         </a>
       </td>
       <td>
