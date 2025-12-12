@@ -58,8 +58,7 @@
 
 ## 📝 My Working Projects:
 
-[![zenith-image-generator](https://github-readme-stats-mauve-seven-77.vercel.app/api/pin/?username=WuMingDao&repo=zenith-image-generator&&theme=tokyonight)](https://github.com/WuMingDao/zenith-image-generator) [![big-banana-emoji-maker](https://github-readme-stats-mauve-seven-77.vercel.app/api/pin/?username=WuMingDao&repo=big-banana-emoji-maker&&theme=tokyonight)](https://github.com/WuMingDao/big-banana-emoji-maker)
-
+[![zenith-image-generator](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=zenith-image-generator&&theme=tokyonight)](https://github.com/WuMingDao/zenith-image-generator) [![big-banana-emoji-maker](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=big-banana-emoji-maker&&theme=tokyonight)](https://github.com/WuMingDao/big-banana-emoji-maker)
 
 <h2 align="center">My GitHub Stats & Contributions</h2>
 
@@ -69,7 +68,7 @@
       <td>
         <!-- GitHub Stats Card -->
         <a href="https://github.com/WuMingDao/github-readme-stats">
-          <img src="https://github-readme-stats-mauve-seven-77.vercel.app/api?username=WuMingDao&show_icons=true&theme=tokyonight" alt="WuMingDao's GitHub stats" />
+          <img src="https://github-readme-stats-lemon-chi-98.vercel.app/api?username=WuMingDao&show_icons=true&theme=tokyonight" alt="WuMingDao's GitHub stats" />
         </a>
       </td>
       <td>
