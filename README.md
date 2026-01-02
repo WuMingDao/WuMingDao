@@ -56,10 +56,6 @@
 
 <hr />
 
-## 📝 My Working Projects:
-
-[![zenith-image-generator](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=zenith-image-generator&&theme=tokyonight)](https://github.com/WuMingDao/zenith-image-generator) [![big-banana-emoji-maker](https://github-readme-stats-lemon-chi-98.vercel.app/api/pin/?username=WuMingDao&repo=big-banana-emoji-maker&&theme=tokyonight)](https://github.com/WuMingDao/big-banana-emoji-maker)
-
 <h2 align="center">My GitHub Stats & Contributions</h2>
 
 <p align="center">
