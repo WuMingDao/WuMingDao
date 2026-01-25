@@ -50,12 +50,6 @@
 
 <hr />
 
-## My Leetcode
-
-[![我的力扣统计](https://leetcard.jacoblin.cool/wumingdao?site=cn&ext=heatmap&theme=dark)](https://leetcode.cn/u/wumingdao)
-
-<hr />
-
 <h2 align="center">My GitHub Stats & Contributions</h2>
 
 <p align="center">
