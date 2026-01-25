@@ -67,13 +67,13 @@
           <img src="https://github-readme-stats-lemon-chi-98.vercel.app/api?username=WuMingDao&show_icons=true&theme=tokyonight" alt="WuMingDao's GitHub stats" />
         </a>
       </td>
-      <td>
-        <!-- GitHub Contributions Card -->
-        <img src="https://github-contributor-stats.vercel.app/api?username=WuMingDao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="WuMingDao's GitHub Contributions" />
-      </td>
     </tr>
   </table>
 </p>
+
+## 🔝 Top Contributed Repo
+
+![Top Contributed Repo](https://github-contrib-stats.vercel.app/WuMingDao/contributed.svg?theme=dark)
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
