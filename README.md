@@ -1,22 +1,34 @@
-<!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20WuMingDao!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Dancing+Kalam&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+WuMingDao+GitHub+profile+page!;I+am+common+software+engineer.;I+like+eat,+sleep+and+play!" />
+<img src="https://readme-typing-svg.demolab.com?font=Dancing+Kalam&size=25&pause=1000&color=FFB6C1&center=true&vCenter=true&random=false&width=600&lines=I+am+WuMingDao;I+am+zenith-image-generator+creator.;I+follwed+web+and+ai+dev" />
 </p>
 
 ## 👋 About Me
+Creator of zenith-image-generator (200+ ⭐) Multi-provider AI image generation · TypeScript · Cl
 
-- 🔭 I’m a current student
-- 🌱 I’m currently learning React and Node.js for full-stack development
-- 📫 How to reach me: wumingdao070@gmail.com
+[Content creator](https://space.bilibili.com/354296611) and follow web and ai dev
 <hr />
 
-## 🌐 Socials:
+## 🚀 Featured Projects
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wuming_dao33582) [![Bilibili](https://img.shields.io/badge/Bilibili-pink.svg?logo=Bilibili&logoColor=white)](https://space.bilibili.com/354296611)
+- [zenith-image-generator](https://github.com/WuMingDao/zenith-image-generator)
+  an multi-provider AI image generation
+
+## 📺 My popular videos:
+
+<div>
+  <a href="https://www.bilibili.com/video/BV1wZX6BnEhX" target="_blank" rel="noopener">
+    <img src="https://i0.hdslb.com/bfs/archive/4d92009cf68bebfd1af80fe844559d17d7cdb1c9.jpg@672w_378h_1c.avif" alt="claude code leak" style="border-radius: 8px;">
+  </a>
+</div>
+
+<hr />
+
+<div >
+  <a href="https://www.bilibili.com/video/BV1s5Vm6LEUM" target="_blank" rel="noopener">
+    <img src="https://i1.hdslb.com/bfs/archive/0a6fca5736beb61455effd76c864be9ff32ba72e.jpg@672w_378h_1c.avif" alt="vscode focues ai feature" style="border-radius: 8px;">
+  </a>
+</div>
 
 <hr />
 
@@ -42,14 +54,6 @@
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
-### Other
-
-[![wakatime](https://wakatime.com/badge/user/018b9516-3463-4ece-a409-03c3187a355d.svg)](https://wakatime.com/@018b9516-3463-4ece-a409-03c3187a355d)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=WuMingDao&label=Profile%20views&color=0e75b6&style=flat" alt="WuMingDao"/> </p>
-
-<hr />
-
 <h2 align="center">My GitHub Stats & Contributions</h2>
 
 <p align="center">
@@ -67,8 +71,5 @@
 
 ## 🔝 Top Contributed Repo
 
-![Top Contributed Repo](https://github-contrib-stats.vercel.app/WuMingDao/contributed.svg?theme=dark)
+![Repos contributed to by WuMingDao](https://github-contrib-stats.vercel.app/WuMingDao/contributed.svg?max_repos=5)
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
